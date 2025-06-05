@@ -2,40 +2,36 @@
 📌 Overview
 This project aims to help farmers make data-driven decisions about which crop to grow and which fertilizer to use, based on soil and environmental parameters. It uses Machine Learning (Decision Tree Classifier) to recommend the best crop and fertilizer for given input conditions.
 
+
 🧠 Technologies Used
+
 Python
-
 Google Colab
-
 Scikit-learn – ML model building
-
 Pandas & NumPy – data manipulation
-
 Matplotlib & Seaborn – data visualization
 
+
 🔍 Project Features
+
 Predicts the most suitable crop using features like N, P, K, temperature, humidity, pH, and rainfall.
-
 Recommends the right fertilizer based on crop type and soil condition.
-
 Implements Decision Tree Classifier with over 98% crop accuracy and 100% fertilizer accuracy.
-
 Custom Python functions for generating real-time predictions.
 
+
 📁 Files Included
+
 Crop_Prediction.ipynb – Crop recommendation model
-
 Fertilizer_recommendation.ipynb – Fertilizer recommendation model
-
 Sample screenshots and outputs
 
+
 ✅ How to Use
+
 Open the notebooks in Google Colab.
-
 Run all cells step-by-step.
-
 Use the crop_recommend() and recommend_fertilizer() functions with your inputs.
-
 View the model predictions for crop and fertilizer.
 
 
